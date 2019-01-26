@@ -1,0 +1,4 @@
+* TODO the page doesnt load completely but it seems the Post method to the 
+* flickr api will work just fine
+* TODO next step is that write code for download each photo
+* TODO how many page have to be scrapped? write for that
