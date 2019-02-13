@@ -11,7 +11,6 @@ script = soup.find_all('script')
 code=[]
 for i in range(0,len(script)):
     name = script[i].text
-    #print(name)
     k = len(name)
     if k != 0 :
        for j in range(0 , k):
